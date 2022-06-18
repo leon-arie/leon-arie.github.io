@@ -27,9 +27,9 @@ In project 2, I take the cleaned dataset in project 1 and create a tableau dashb
 
 ## [Project 3: Forbes 2022 Billionaires Tableau Dashboard](https://public.tableau.com/app/profile/leon.arie/viz/Billionaires_16552642324310/Dashboard1) 
 
-[![name](billionare-tableau.png)](https://public.tableau.com/app/profile/leon.arie/viz/Billionaires_16552642324310/Dashboard1?publish=yes)
+[![name](billionare-tableau.png)](https://public.tableau.com/app/profile/leon.arie/viz/Billionaires_16552642324310/Dashboard1)
 ### Purpose:
-Analyze demographic information on the top Forbes 2022 billionaires around the world.
+Analyze demographic information on the top Forbes 2022 billionaires around the world and create a interactive tableau dashboard.
 
 ### Tasks:
 1. Clean dataset and load it into tableau.
