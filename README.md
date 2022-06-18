@@ -6,7 +6,7 @@
 [![name](data-analysis.png)](https://github.com/leon-arie/leon-arie.github.io/blob/main/EV%20Analysis.ipynb)
 
 ### Purpose: 
-In this project, I use Python to compare key metrics between different electric vehicles to find valuable information that will help lead to future buying decisions.
+In this project, I use **Python** to compare key metrics between different electric vehicles to find valuable information that will help lead to future buying decisions.
 ### Tasks:
 1. Clean dataset to prepare for analysis.
 2. Exploratory data analysis.
@@ -18,7 +18,7 @@ In this project, I use Python to compare key metrics between different electric 
 [![name](ev-tableau.png)](https://public.tableau.com/app/profile/leon.arie/viz/EVDashboard_16550801177210/CarDashboard)
 
 ### Purpose: 
-In project 2, I take the cleaned dataset in project 1 and create a Tableau dashboard to compare different car performance based on models.  
+In project 2, I take the cleaned dataset in project 1 and create a Tableau dashboard to compare different car performance based on models**.  
 
 ### Tasks:
 1. Load EV dataset into Tableau.
