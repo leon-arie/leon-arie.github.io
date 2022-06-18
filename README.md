@@ -22,8 +22,8 @@ In project 2, I take the cleaned dataset in project 1 and create a tableau dashb
 
 ### Tasks:
 1. Load EV dataset into tableau.
-2. Create bar graphs, and tables.
-3. Add a filter function for each car model
+2. Create bar graphs and tables on performance metrics.
+4. Add a filter function for each car model.
 
 ## [Project 3: Forbes 2022 Billionaires Tableau Dashboard](https://public.tableau.com/app/profile/leon.arie/viz/Billionaires_16552642324310/Dashboard1) 
 
@@ -33,4 +33,4 @@ Analyze demographic information on the top Forbes 2022 billionaires around the w
 
 ### Tasks:
 1. Clean dataset and load it into tableau.
-3. Create dashboard with different demographic data to further analyze data.
+3. Create a dashboard with different demographic data to further analyze the top billionaires.
