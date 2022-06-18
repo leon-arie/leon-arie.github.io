@@ -18,7 +18,7 @@ In this project, I use **Python** to compare key metrics between different elect
 [![name](ev-tableau.png)](https://public.tableau.com/app/profile/leon.arie/viz/EVDashboard_16550801177210/CarDashboard)
 
 ### Purpose: 
-In project 2, I take the cleaned dataset in project 1 and create a Tableau dashboard to compare different car performance based on models**.  
+In project 2, I take the cleaned dataset in project 1 and create a Tableau dashboard to **compare different car performance based on models**.  
 
 ### Tasks:
 1. Load EV dataset into Tableau.
